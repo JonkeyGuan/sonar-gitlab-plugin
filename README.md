@@ -1,4 +1,4 @@
-Sonar GitLab Plugin
+Sonar GitLab Plugin 
 ===================
 
 [![Build Status](https://travis-ci.org/gabrie-allaigre/sonar-gitlab-plugin.svg?branch=master)](https://travis-ci.org/gabrie-allaigre/sonar-gitlab-plugin)
